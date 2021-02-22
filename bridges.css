@@ -1,0 +1,12 @@
+#bridges-map {
+    width: 1300px;
+    height: 500px;
+    border: 2px lightslategrey solid;
+    
+    margin: 50px;
+    padding: 80px;
+}
+
+h1 {
+    text-align: center;
+}
